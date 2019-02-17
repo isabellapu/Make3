@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Make No. 2",
+"dataUrl": "WebGL Build Week 4.data.unityweb",
+"wasmCodeUrl": "WebGL Build Week 4.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL Build Week 4.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
